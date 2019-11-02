@@ -9,7 +9,6 @@
 
 <p align="center">
 	<a href="Introduction.md">What is this Book?</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/andkret/Cookbook/raw/LaTex-Version-Deprecated/Data%20Engineering%20Cookbook.pdf">Download PDF</a>&nbsp;&nbsp;&nbsp;
   <a href="#how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA">YouTube</a>&nbsp;&nbsp;&nbsp;
 	<a
@@ -29,12 +28,12 @@ If you look for the old PDF version it's [here](https://github.com/andkret/Cookb
 <br>
 
 ## Contents:
-- [Introduction](#introduction)
-- [Basic Engineering Skills](#basic-engineering-skills)
-- [Advanced Engineering Skills](#introduction)
-- [Hands On Course](#Hands-on-course)‚
-- [Case Studies](#case-studies)
-- [1001 Interview Questions](#1001-interview-questions)
+- [Introduction](Introduction.md)
+- [Basic Engineering Skills](BasicSkills.md)
+- [Advanced Engineering Skills](AdvancedSkills.md)
+- [Hands On Course](HandsOnCourse.md)‚
+- [Case Studies](CaseStudies.md)
+- [1001 Interview Questions](InterviewQuestions.md)
 - [Recommended Books and Courses](BooksAndCourses.md)
 <!-- -->
 
@@ -282,7 +281,31 @@ If you look for the old PDF version it's [here](https://github.com/andkret/Cookb
 
 ## Recommended Books and Courses
 
-- [Books and Courses](BooksAndCourses.md)
+- [About Books and Courses](BooksAndCourses.md#about-books-and-courses)
+- [Books](BooksAndCourses.md#books)
+  - [Languages](BooksAndCourses.md#books-languages)
+    - [Java](BooksAndCourses.md#java)
+    - [Python](BooksAndCourses.md#Python)
+    - [Scala](BooksAndCourses.md#Scala)
+    - [Swift](BooksAndCourses.md#Swift)
+  - [Data Science Tools](BooksAndCourses.md#books-data-science-tools)
+    - [Apache Spark](BooksAndCourses.md#apache-spark)
+    - [Apache Kafka](BooksAndCourses.md#apache-Kafka)
+    - [Apache Hadoop](BooksAndCourses.md#apache-Hadoop)
+    - [Apache HBase](BooksAndCourses.md#apache-HBase)
+  - [Business](BooksAndCourses.md#Books-Business)
+    - [The Lean Startup](BooksAndCourses.md#the-lean-startup)
+    - [Zero to One](BooksAndCourses.md#zero-to-one)
+    - [The Innovators Dilemma](BooksAndCourses.md#the-innovators-dilemma)
+    - [Crossing the Chasm](BooksAndCourses.md#crossing-the-chasm)
+    - [Crush It!](BooksAndCourses.md#crush-it!)
+  - [Community Recommendations](BooksAndCourses.md#Community-Recommendations)
+    - [Designing Data-Intensive Applications](BooksAndCourses.md#designing-data-intensive-applications)
+- [Online Courses](BooksAndCourses#online-courses)
+  - [Machine Learning Stanford](BooksAndCourses.md#machine-learning-stanford)
+  - [Computer Networking](BooksAndCourses.md#computer-networking)
+  - [Spring Framework](BooksAndCourses.md#spring-framework)
+  - [IOS App Development Specialization](BooksAndCourses.md#ios-app-development-specialization)
 
 
 ## How To Contribute
@@ -299,8 +322,9 @@ Everything is free, but please support what you like!
 Join my Patreon and become a plumber yourself:
 [Link to my Patreon](https://patreon.com/plumbersofds)
 
-Or support me and send a message through Paypal.me:
+Or support me and send a message I read on the next livestream through Paypal.me:
 [Link to my Paypal.me/feedthestream](https://paypal.me/feedthestream)
+
 ## Important Links
 
 Subscribe to my Plumbers of Data Science YouTube channel for regular updates:
